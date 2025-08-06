@@ -6,12 +6,12 @@
     <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="120px">
   </a>
   <h1>𝗡𝗮𝗶𝗱𝗲𝗹𝘆𝗻 𝗩𝗮𝘇𝗾𝘂𝗲𝘇 𝗢𝗿𝘁𝗶𝘇</h1>
-  <h3>🚀 Full Stack Developer | 🔧 Backend Expert | 🎨 UI Innovator</h3>
+  <h3> Full Stack Developer |  Backend Expert |  UI Innovator</h3>
 </div>
 
 ---
 
-### 📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗼 𝗖𝗼𝗻 𝗘𝗺𝗼𝗷𝗶𝘀 𝗘𝘅𝗽𝗿𝗲𝘀𝗶𝘃𝗼𝘀
+### 📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗼 
 
 <p align="center">
   <!-- Email con emojis -->
@@ -46,11 +46,11 @@
 
 ---
 
-### 🌟 𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼 𝗘𝘀𝘁𝗿𝗲𝗹𝗹𝗮 𝗰𝗼𝗻 𝗘𝗺𝗼𝗷𝗶𝘀 𝗗𝗲𝘀𝘁𝗮𝗰𝗮𝗱𝗼𝘀
+### 🌟 𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼 
 <div align="center">
   <a href="https://servicios.admodelutd.online/" target="_blank">
     <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="80">
-    <h3>✨ 𝗦𝗲𝗿𝘃𝗶𝗰𝗶𝗼𝘀 𝗔𝗗𝗠𝗢𝗗𝗘 ✨</h3>
+    <h3>✨ 𝗦𝗲𝗿𝘃𝗶𝗰𝗶𝗼𝘀 𝗔𝗗𝗠𝗢𝗗𝗘L ✨</h3>
   </a>
   <p> 
     <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="20"> 
@@ -90,6 +90,6 @@
 <!-- Footer con emojis dinámicos -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZghpWViQPqLhQRyUj9/giphy.gif" width="80"><br>
-  💌 ¡Contáctame para colaboraciones! 💌<br>
-  📢 ¡Sígueme para ver mis próximos proyectos! 📢
+   ¡Contáctame para colaboraciones! 💌<br>
+   ¡Sígueme para ver mis próximos proyectos! 📢
 </p>
