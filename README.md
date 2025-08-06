@@ -1,17 +1,27 @@
+<!-- 🌌 Fondo animado espacial -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" height="20" width="100%">
+</div>
+
+<img src="https://i.pinimg.com/originals/50/8d/42/508d42fbe79c2c9e54687c5e8050a020.gif" width="100%" height="5">
+
 ## Hi there 👋
 
 # 🚀 Naidelyn Vazquez Ortiz / [Servicios ADMODE](https://servicios.admodelutd.online/) 
 
-<div align="center">
+<div style="position: relative; display: inline-block; width: 100%;">
   <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZiYm5kYmY5ZnFtM3V3Nm1zcHJmNXkwMzQ0ZW52eWN0dWhvZmUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="150" style="position: absolute; bottom: 10px; right: 10px; border-radius: 10px;">
 </div>
 
+---
+
 ## 👩💻 Naidelyn Vazquez Ortiz
-[![GitHub](https://img.shields.io/badge/-NinaOrtiz1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinaOrtiz1) - she/her 
+[![GitHub](https://img.shields.io/badge/-NinaOrtiz1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinaOrtiz1) - she/her  
 
-**🌠 Follow** 
+**🌠 Follow**  
 
-Full Stack Developer | JavaScript Explorer ⚡
+Full Stack Developer | JavaScript Explorer ⚡  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NinaOrtiz1&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/NinaOrtiz1?color=ff69b4&label=Followers&style=flat-square)
@@ -24,12 +34,6 @@ Full Stack Developer | JavaScript Explorer ⚡
 ---
 
 ### 🏆 Achievements
-
-**✨ About Me**
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZiYm5kYmY5ZnFtM3V3Nm1zcHJmNXkwMzQ0ZW52eWN0dWhvZmUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300">
-</div>
 
 - 🪐 Estudiante de Ingeniería en la Universidad Tecnológica de Durango  
 - ⚡ "La tecnología da y la tecnología quita" - Mi filosofía  
@@ -63,11 +67,11 @@ Full Stack Developer | JavaScript Explorer ⚡
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Modo Gamer)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NinaOrtiz1&show_icons=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaOrtiz1&layout=compact&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=NinaOrtiz1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaOrtiz1&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF">
 </div>
 
 ---
@@ -76,3 +80,5 @@ Full Stack Developer | JavaScript Explorer ⚡
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vazquez-ortiz-naidelyn-22268829a/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
+<img src="https://i.pinimg.com/originals/50/8d/42/508d42fbe79c2c9e54687c5e8050a020.gif" width="100%" height="5">
