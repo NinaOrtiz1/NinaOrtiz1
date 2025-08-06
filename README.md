@@ -2,10 +2,6 @@
 
 # 🚀 Naidelyn Vazquez Ortiz / [Servicios ADMODE](https://servicios.admodelutd.online/)
 
-<div style="position: relative; display: inline-block; width: 100%;">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="100%">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZiYm5kYmY5ZnFtM3V3Nm1zcHJmNXkwMzQ0ZW52eWN0dWhvZmUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100" style="position: absolute; bottom: 10px; right: 10px; border-radius: 10px;">
-</div>
 
 ---
 
