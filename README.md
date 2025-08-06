@@ -1,88 +1,98 @@
-## Hi there 👋
+## Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!-- Encabezado -->
-<h1 align="center">🚀 Naidelyn Vazquez Ortiz</h1>
-<h3 align="center">Full Stack Developer | Backend Specialist | UI Futurist</h3>
+<!-- Encabezado Animado -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50"> 
+  Naidelyn Vazquez Ortiz
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50">
+</h1>
+<h3 align="center">🚀 Full Stack Developer | Backend Specialist | UI Futurist</h3>
 <p align="center">
-  <a href="https://servicios.admodelutd.online/">🌐 Servicios ADMODEL</a>
+  <a href="https://servicios.admodelutd.online/">
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="30"> 
+    🌐 Servicios ADMODE
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="30">
+  </a>
 </p>
 
-<!-- Banner Animado -->
+<!-- Banner Mini -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="60%" alt="Coding Banner">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="Coding Banner">
 </p>
 
-<!-- Información Básica -->
+<!-- Info con GIFs compactos -->
 <p align="center">
-  🌎 Durango, México • 🛸 Codificando el futuro desde 2023
+  <img src="https://media.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" width="20"> 
+  Durango, México • 
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOepEG4/giphy.gif" width="20"> 
+  Codificando desde 2023
 </p>
 
-<!-- Contacto -->
+<!-- Contacto con GIFs -->
 <p align="center">
   <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://media.giphy.com/media/KSyBlMKf0q3JhJuJqT/giphy.gif" width="30" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/vazquez-ortiz-naidelyn-22268829a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-<!-- Sobre Mí -->
-<h2 align="center">🧠 Sobre Mí</h2>
+<!-- Sobre Mí con GIF animado -->
+<h2 align="center">🧠 Sobre Mí <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="30"></h2>
 <p align="center">
-  Estudiante de Ingeniería en la Universidad Tecnológica de Durango.<br>
-  <em>"La tecnología da y la tecnología quita"</em><br>
-  Apasionada por el desarrollo backend, interfaces futuristas y soluciones innovadoras.
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXi2HCZbNgG6rm/giphy.gif" width="180" alt="Programando">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> 
+  Estudiante en UT Durango<br>
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="100"><br>
+  <em>"La tecnología da y la tecnología quita"</em>
 </p>
 
 ---
 
-<!-- Tech Stack -->
-<h2 align="center">🛠 Tech Stack</h2>
+<!-- Tech Stack con iconos animados -->
+<h2 align="center">🛠 Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> JavaScript 
+  <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="30"> PHP
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30"> SQL
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
-
----
-
-<!-- Proyectos -->
-<h2 align="center">🚀 Proyectos Destacados</h2>
-<p align="center">
-  <a href="https://servicios.admodelutd.online/"><strong>🌠 Servicios ADMODE</strong></a> — Plataforma de servicios universitarios.<br>
-  <a href="https://github.com/NinaOrtiz1"><strong>🛰️ Mi Portafolio</strong></a> — Colección de proyectos personales.
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Project GIF">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30"> React
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30"> Vite
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> Node.js
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- Proyectos con cohete animado -->
+<h2 align="center">🚀 Proyectos <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30"></h2>
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NinaOrtiz1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00E5FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaOrtiz1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=FFFFFF" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NinaOrtiz1&theme=radical&hide_border=true&background=0D1117&stroke=00FFF7" alt="Streak Stats"/>
+  <a href="https://servicios.admodelutd.online/">
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="20"> 
+    Servicios ADMODE
+  </a><br>
+  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="100">
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- Stats con GIF decorativo -->
+<h2 align="center">📊 GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif" width="120" alt="Contact GIF"><br>
-  <strong>💬 Siempre abierta a colaboraciones interesantes</strong>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NinaOrtiz1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00E5FF&text_color=FFFFFF" alt="Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinaOrtiz1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=FFFFFF" alt="Langs"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
+</p>
+
+---
+
+<!-- Footer animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsrf4d7KBZ8g7C/giphy.gif" width="80"><br>
+  <strong>💬 Colaboraciones bienvenidas</strong>
+  <img src="https://media.giphy.com/media/3o7TKsrf4d7KBZ8g7C/giphy.gif" width="80">
 </p>
