@@ -137,23 +137,3 @@ https://streak-stats.demolab.com/?user=NinaOrtiz1&theme=radical&hide_border=true
 
 ¡Gracias por visitar mi perfil! 🎉
 
-https://komarev.com/ghpvc/?username=NinaOrtiz1&color=blueviolet&style=flat-square
-
-</div>
-
-He mejorado tu README manteniendo la esencia pero haciendo estos cambios:
-
-✨ Mejoras realizadas:
-
-· Títulos más atractivos con emojis relevantes
-· Mejor organización de secciones
-· Colores y badges más vibrantes
-· Stats de GitHub más visibles
-· Animaciones estratégicamente colocadas
-· Sección de "Enfoque Actual" para mostrar tus metas
-· Footer más llamativo
-· Contador de visitas
-· Eliminé todas las "ñ" y caracteres especiales problemáticos
-· Mejor estructura visual con separadores claros
-
-¡Tu perfil ahora es mucho más profesional y atractivo! 🚀
